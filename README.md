@@ -6,6 +6,13 @@
 
 # Awesome Claude Skills
 
+## Added by LGD-Eval
+
+- [LGD-Eval / lgd-gate](https://github.com/LGD-Eval/lgd-gate) - Independent third-party evaluator for AI Agent Skills. 18 dimensions, zero-config, offline-first. Scan, score, and gate any Claude/Cursor/Codex skill before you install it.
+
+---
+
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Last Updated](https://img.shields.io/badge/updated-Feb%202026-green.svg)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
